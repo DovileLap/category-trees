@@ -1,0 +1,28 @@
+.trees > div {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+.recursive-tree .tree-node {
+    padding-left: 20px;
+}
+
+.tree-cell {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.tree-control {
+    padding-left: 5px;
+    display: inline-block;
+}
+
+.tree-control button {
+    margin-left: 5px;
+}
+
+.tree-control input {
+    margin-left: 5px;
+}
+
